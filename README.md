@@ -8,3 +8,5 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 tokenizer = AutoTokenizer.from_pretrained("Kamilatr/Ueberschriftengenerator_LEOLM", trust_remote_code=True) model = AutoModelForCausalLM.from_pretrained("Kamilatr/Ueberschriftengenerator_LEOLM", trust_remote_code=True)
 
 View additional information about the fine tuned model on my hugging face hub repo: https://huggingface.co/Kamilatr/Ueberschriftengenerator_LEOLM
+
+You can find the entire code in newrepo.py
