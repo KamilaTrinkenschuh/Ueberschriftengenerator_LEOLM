@@ -10,3 +10,4 @@ tokenizer = AutoTokenizer.from_pretrained("Kamilatr/Ueberschriftengenerator_LEOL
 View additional information about the fine tuned model on my hugging face hub repo: https://huggingface.co/Kamilatr/Ueberschriftengenerator_LEOLM
 
 You can find the entire code in newrepo.py
+The .png file contains a picture with the training loss
